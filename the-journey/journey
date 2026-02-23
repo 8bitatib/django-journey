@@ -1,1 +1,21 @@
+# Day 1 – 21 Feb 2026
 
+## Why Django + React?
+- I compared different stacks (Flask, Node.js, Jamstack)
+- Decided on Django + React because:
+  - Django leverages my Python skills and gives me a structured backend (ORM, admin panel, auth)
+  - React provides a modern, interactive frontend for quizzes, downloads, and videos
+  - Together, they balance productivity now and scalability later
+
+## What I Did
+- Installed Django and created my first project (`mysite`)
+- Learned about a django project structure (settings, urls, views, models)
+
+## What I Learned
+- Django is a full‑stack framework with batteries included
+- The difference between a project (overall site) and an app (specific feature)
+- How Django’s MVT pattern works (Model-View-Template)
+
+## Next Steps
+- Explore Django apps in detail.
+- Learn how templates work to render HTML pages
