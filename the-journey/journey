@@ -34,3 +34,7 @@
 ## Next
 - start building models
 - Django’s admin panel to manage content.
+
+# Day 3
+THE rule:
+def logic in a view (views.py) --> return response as a view object (like render(request,"something.html",context)) --> map the view to a url (path in urls.py) --> create/update template
